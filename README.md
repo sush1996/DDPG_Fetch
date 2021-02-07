@@ -19,6 +19,8 @@ Performance Plots when varying the alpha parameter on PER
   <img src="https://github.com/sush1996/DDPG_Fetch/blob/master/alpha_plots_fp.png?raw=true" width="400" />
   <img src="https://github.com/sush1996/DDPG_Fetch/blob/master/alpha_plots_fs.png?raw=true" width="400" />
 </p>
+* Correction: The plot on the right is for FetchSlide but has been mistakenly labelled as FetchPush
+
 
 Addition of PER along with finetuning the alpha parameter boosts its performance. 
 
