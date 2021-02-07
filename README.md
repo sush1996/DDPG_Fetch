@@ -13,3 +13,13 @@ Plots for Mean Success Rates for different Fetch Environments
   <img src="https://github.com/sush1996/DDPG_Fetch/blob/master/all_plots_fp.png?raw=true" width="400" />
   <img src="https://github.com/sush1996/DDPG_Fetch/blob/master/all_plots_fs.png?raw=true" width="400" />
 </p>
+
+Performance Plots when varying the alpha parameter on PER
+<p float="middle">
+  <img src="https://github.com/sush1996/DDPG_Fetch/blob/master/alpha_plots_fp.png?raw=true" width="400" />
+  <img src="https://github.com/sush1996/DDPG_Fetch/blob/master/alpha_plots_fs.png?raw=true" width="400" />
+</p>
+
+Addition of PER along with finetuning the alpha parameter boosts its performance. 
+
+The inclusion of the PER algo within the DDPG-HER framework can be done in many ways, it could give greater performance boosts if combined well.
